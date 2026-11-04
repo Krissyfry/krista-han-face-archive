@@ -1,0 +1,5 @@
+node_modules
+.vite-cache/
+dist/
+preview.html
+.DS_Store
